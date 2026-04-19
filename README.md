@@ -31,8 +31,8 @@ El proyecto fue desarrollado utilizando un flujo de trabajo colaborativo simulad
 6. Merge a `main`
    
  Ramas del Proyecto
-- `main` → versión principal del sistema
-- `colaborador-ui` → mejoras de interfaz y diseño
+- `main` versión principal del sistema
+- `colaborador-ui` mejoras de interfaz y diseño
 
 Tecnologías Utilizadas
 - HTML5
@@ -44,10 +44,10 @@ Tecnologías Utilizadas
 
 estructUra del Sistema
 
-- `/api` → servicios backend (PHP)
-- `/public` → interfaz del sistema
-- `/estructuras` → implementación de listas (simple, doble, circular)
-- `/config` → conexión a base de datos
+- `/api` servicios backend (PHP)
+- `/public`  interfaz del sistema
+- `/estructuras` implementación de listas (simple, doble, circular)
+- `/config`  conexión a base de datos
 
  Objetivo Académico
 

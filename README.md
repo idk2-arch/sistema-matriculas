@@ -1,4 +1,4 @@
-# 🏫 Sistema de Matrículas - Colegio
+Sistema de MatrIculas
 
 Proyecto desarrollado como parte de una práctica académica de programación, simulando un entorno de trabajo colaborativo utilizando Git y GitHub.
 
